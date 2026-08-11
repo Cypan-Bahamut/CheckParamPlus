@@ -25,3 +25,12 @@ Additional addon commands:
 
 The augment reader also processes every pet-stat segment of multi-stat augments
 (the original code only read the first, silently dropping the rest).
+
+## Support
+
+First and foremost: Please support the original author if this is an addon modification. 
+If you enjoy the addon and you'd like to buy me a coffee, it's appreciated but never expected:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-cypan-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/cypan)
+
+Bug reports and pull requests are worth more than donations, so open an issue if something's broken please.
